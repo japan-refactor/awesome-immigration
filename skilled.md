@@ -109,10 +109,7 @@
 - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
 - Minimum Points: 70
-- Point Calculator: [HSP Visa Points Simulator (2026)](https://japan-refactor.com/high-skilled-professional-visa-japan-engineer/)
-- Free interactive simulator built on the official 2026 Immigration Bureau point table. Calculates age-salary correlation, JLPT mutual exclusivity, and IPA certification bonuses. Identifies exact delta to reach the 80-point "1-year PR fast-track" threshold.
-
-  
+- [Point Calculator(HSP Visa)](https://japan-refactor.com/high-skilled-professional-visa-japan-engineer/)  
 
 ### Ireland
 
