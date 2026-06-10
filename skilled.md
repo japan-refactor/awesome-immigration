@@ -110,6 +110,11 @@
 - Length of Stay: 5 years (maximum)
 - Minimum Points: 70
 
+##### [HSP Visa Points Simulator (2026)](https://japan-refactor.com/high-skilled-professional-visa-japan-engineer/) 
+
+- Free interactive simulator for Japan's Highly Skilled Professional (HSP) visa. Built on the official 2026 Immigration Bureau point table. Calculates age-salary correlation, JLPT mutual exclusivity, and IPA certification bonuses. Identifies exact points needed to reach the 80-point "1-year PR fast-track" threshold.
+  
+
 ### Ireland
 
 #### [Employment Visa](https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-work-visa-options/applying-for-a-long-stay-employment-visa/employment-visa/)
